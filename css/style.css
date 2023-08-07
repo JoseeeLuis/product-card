@@ -36,6 +36,11 @@ h1, .about-item p{
 .about-item{
     display: flex;
     justify-content: space-around;
-    margin: 10px;
+    gap: 170px;
+    margin: 15px 0;
+}
+
+.description-item, .card h2{
+    font-size: 15px;
 
 }
